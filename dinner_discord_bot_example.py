@@ -31,5 +31,5 @@ async def on_message(message):
         await message.channel.send("今晚吃"+ random.choice(dinner_options))
 
 
-client.run("MTE2NjAyMzYzMDQ4OTEzNzMwNA.Grcqtx.JBUZJyVBgdx0z6g_YEHLuIjMIKzJ5sCC07ck6c")
+client.run("your token")
 
